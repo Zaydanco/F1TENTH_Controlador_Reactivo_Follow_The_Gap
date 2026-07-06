@@ -174,6 +174,14 @@ Así mismo, el uso de la odometría permitió implementar un sistema de cronomet
 
 ## 8. Demostración en video.
 
+# Demostración
+
+A continuación se muestra una demostración del proceso de ejecución del controlador reactivo **Follow the Gap**.
+
+## Ejecución del controlador
+
+![Tutorial de ejecución](images/tutorial.gif)
+
 En el siguiente enlace podrán visualizar el controlador puesto en práctica dentro del simulador.
 
 https://youtu.be/4MRM1tIQsYI?si=UGL-mDDzQq9GBPyO
